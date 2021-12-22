@@ -1,2 +1,3 @@
+--// hi
 loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/holders/main/load"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/holders/main/string"))()
